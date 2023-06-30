@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="email">Email</string>
+    <string name="telefono">Telefono</string>
+    <string name="edad">Edad</string>
+    <string name="guardar">Guardar</string>
+    <string name="buscar_personal">Buscar Personal</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="borrar">Borrar</string>
+    <string name="editar">Editar\n</string>
+    <string name="edit">Editar</string>
+    <string name="borrar_personal">¿Borrar personal?</string>
+    <string name="yes">Si, borrar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
